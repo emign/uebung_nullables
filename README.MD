@@ -25,7 +25,7 @@ s = s + " Du"
 println(s) // Gibt Hallo Du aus. 
 ``` 
 
-#### Erster Sitzplatz frei
+#### 3. Erster Sitzplatz frei
 Beim Sitzplatz A1 handelt es sich um einen barrierefreien Platz.
 Implementieren Sie die Funktion `ersterSitzPlatzLeer()` so, dass sie den Sitzplatz zurück gibt, falls dieser gebucht wurde (also nicht null ist)
 Falls der Sitzplatz null ist, soll -1 zurück gegeben werden.
